@@ -1,9 +1,9 @@
 # Karthiks-Resume
 
-                                                               Chivukula Manikanta Karthik
-                                                       3/S Balaji Nilayam, Gandhi Nagar, Kakinada-533003
-                                                                  T: +91 9177949933
-                                                               chivukulakarthik004@gmail.com
+                                                         Chivukula Manikanta Karthik
+                                                3/S Balaji Nilayam, Gandhi Nagar, Kakinada-533003
+                                                           T: +91 9177949933
+                                                        chivukulakarthik004@gmail.com
                                                                
                                                               
 Professional Summary:
