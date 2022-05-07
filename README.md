@@ -37,10 +37,14 @@ Technical Knowledge:
 
 Work Experience:
 
-1.Organization-Entuple Technologies
-  Designation-Intern (Synthesis & STA)
-  Duration-November 2021 to December 2021
+  Organization-Entuple Technologies.
+  
+  Designation: Intern (Synthesis & STA)
+  
+  Duration: November 2021 to December 2021
+  
   Responsibilities:
+  
   1. Conversion of RTL code to Gate level Netlist
   2. Logic optimization for Area
   3. Basic Verilog Coding
@@ -63,5 +67,7 @@ Personal Snippets:
                                    I do hereby declare that the above information is true to the best of my knowledge.
                           
 Place:
+
 Date: 
+
 (Ch. Manikanta Karthik)
